@@ -1,5 +1,27 @@
 ## Hi there 👋
 
+# java
+# html+css
+# javascript
+# android
+# big data
+# AI
+# arduino
+
+-- Database
+# Oracle
+# Mysql, Maria
+# FireBase
+# MongoDB
+
+-- Network
+# Tcp/ip
+
+-- Operating System
+# Linux
+
+
+
 <!--
 **KimTrLab/KimTrLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

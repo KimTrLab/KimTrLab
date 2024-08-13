@@ -1,24 +1,24 @@
 ## Hi there 👋
 
-# java
-# html+css
-# javascript
-# android
-# big data
-# AI
-# arduino
+### java
+### html+css
+### javascript
+### android
+### big data
+### AI
+### arduino
 
 -- Database
-# Oracle
-# Mysql, Maria
-# FireBase
-# MongoDB
+### Oracle
+### Mysql, Maria
+### FireBase
+### MongoDB
 
 -- Network
-# Tcp/ip
+### Tcp/ip
 
 -- Operating System
-# Linux
+### Linux
 
 
 
